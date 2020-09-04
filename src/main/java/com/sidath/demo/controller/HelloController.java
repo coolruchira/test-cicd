@@ -20,8 +20,8 @@ public class HelloController {
 
         //Construction the person object
         Person person = new Person();
-        person.setGreeting("Hi");
-        person.setName("Sidath");
+        person.setGreeting("Hello");
+        person.setName("Ruchira");
 
         //Logging
         logger.info("API Invoked");
